@@ -1,0 +1,36 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.article {
+    background: lime;
+}
+
+.news-container .article {
+
+}
+
+.article-container .article {
+
+}
+
+body > footer {
+    /*Eerste niveau na body tag*/
+}
+
+* {
+    /*Target alles*/
+}
+
+section * {
+    /*Alles binnen sectie*/
+}
+
+section > * {
+    /*Alles binnen eerste niveau sectie*/
+}
+
+[data-link:foo {
+    
+}
